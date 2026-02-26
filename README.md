@@ -17,12 +17,30 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
 
 <table>
   <tr>
-    <td align="center"><img src="assets/certifications/comptia-a-plus.png" width="220" alt="CompTIA A+"><br><strong>CompTIA A+</strong><br>February 2002<br><a href="http://verify.ComptIA.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a></td>
+    <td align="center"><a href="https://verify.comptia.org">
+        <img src="assets/certifications/comptia-a-plus.png" width="220" alt="CompTIA A+">
+      </a><br>
+      <strong>CompTIA A+</strong><br>
+      February 2002<br>
+      <a href="https://verify.comptia.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a>
+    </td>
     <td align="center"><img src="assets/certifications/ccna-badge.png" width="220" alt="CCNA"><br><strong>Cisco CCNA Routing & Switching</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/certifications/google-it-support.png" width="220" alt="Google IT Support"><br><strong>Google IT Support Professional Certificate</strong><br>January 2020<br><a href="https://www.credly.com/go/wMILLfzje">🔗 Verify on Credly</a></td>
-    <td align="center"><img src="assets/certifications/isc2-cc.png" width="220" alt="ISC² Certified in Cybersecurity (CC)"><br><strong>ISC² Certified in Cybersecurity (CC)</strong><br>Passed & Certified<br><a href="https://www.isc2.org/certifications/cc">🔗 ISC² CC Info</a></td>
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/98ad5d43-70c0-4e4a-b156-036fa620aa2e">
+        <img src="assets/certifications/google-it-support.png" width="220" alt="Google IT Support">
+      </a><br>
+      <strong>Google IT Support Professional Certificate</strong><br>
+      Issued: 13 Jan 2020<br>
+      <a href="https://www.credly.com/earner/earned/badge/98ad5d43-70c0-4e4a-b156-036fa620aa2e">🔗 Verify on Credly</a>
+    </td>
+    <td align="center"><a href="https://www.credly.com/badges/b1fe11bc-8120-40f3-8439-03b0f79b85bc">
+        <img src="assets/certifications/isc2-cc.png" width="220" alt="ISC² Certified in Cybersecurity (CC)">
+      </a><br>
+      <strong>ISC² Certified in Cybersecurity (CC)</strong><br>
+      <a href="https://www.credly.com/badges/b1fe11bc-8120-40f3-8439-03b0f79b85bc">🔗 Verify on Credly</a><br>
+      <small>Official digital badge – click image or link to view details & verify</small>
+    </td>
   </tr>
 </table>
 
