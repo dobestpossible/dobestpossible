@@ -25,8 +25,8 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
       <a href="https://verify.comptia.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a>
     </td>
     <td align="center"><img src="assets/certifications/ccna-badge.png" width="220" alt="CCNA"><br><strong>Cisco CCNA Routing & Switching</strong><br>
-      Issued: 29 Nov 2012<br><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90>🔗 Verify on Credly</a>
-    <td>
+      Issued: 29 Nov 2012<br><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">🔗 Verify on Credly</a>
+    </td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/98ad5d43-70c0-4e4a-b156-036fa620aa2e">
