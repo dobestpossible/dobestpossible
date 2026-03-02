@@ -24,8 +24,12 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
       Issued: 07 Feb 2002<br>
       <a href="https://verify.comptia.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a>
     </td>
-    <td align="center"><img src="assets/certifications/ccna-badge.png" width="220" alt="CCNA"><br><strong>Cisco CCNA Routing & Switching</strong><br>
-      Issued: 29 Nov 2012<br><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">🔗 Verify on Credly</a>
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">
+        <img src="assets/certifications/ccna-badge.png" width="220" alt="CCNA">
+      </a><br>
+      <strong>Cisco CCNA Routing & Switching</strong><br>
+      Issued: 29 Nov 2012<br>
+      <a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">🔗 Verify on Credly</a>
     </td>
   </tr>
   <tr>
@@ -44,6 +48,17 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
       <a href="https://www.credly.com/badges/b1fe11bc-8120-40f3-8439-03b0f79b85bc">🔗 Verify on Credly</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">
+        <img src="assets/certifications/fortinet_fundamentals_cybersecurity.png" width="220" alt="Fortinet Certified Fundamentals Cybersecurity">
+      </a><br>
+      <strong>Fortinet Certified Fundamentals Cybersecurity</strong><br>
+      Issued: 02 Mar 2026<br>
+      Expires: 02 Mar 2028<br>
+      <a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">🔗 Verify on Credly</a> | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity">Badge Info</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -51,7 +66,7 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
 ## 🧠 Skills & Technologies
 - **Networking**: TCP/IP, routing & switching, VLANs, Cisco IOS (CCNA level)
 - **IT Support**: Hardware diagnostics, OS installation, troubleshooting (CompTIA A+ & Google IT)
-- **Cybersecurity**: Security principles, incident response, business continuity, disaster recovery (ISC² CC)
+- **Cybersecurity**: Security principles, incident response, business continuity, disaster recovery (ISC² CC), threat landscape fundamentals (Fortinet)
 - **Tools**: Wireshark, basic Linux/Windows CLI, ticketing systems, SIEM fundamentals
 - **Soft skills**: Clear communication, problem-solving, customer-focused support
 
