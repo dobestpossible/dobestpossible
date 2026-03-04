@@ -1,4 +1,4 @@
-# Hi, I'm Glenn P. Gawron 👋
+# Hi, I'm Glenn Paul Gawron 👋
 
 **IT Professional | Networking | Cybersecurity | IT Support**  
 San Diego, California
@@ -13,6 +13,7 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
 - **Open to**: IT Support, Help Desk, Network Technician, Junior SOC Analyst, or Cybersecurity roles.
 
 ---
+
 ## 🏆 Certifications
 <table>
   <tr>
@@ -21,7 +22,7 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
       </a><br>
       <strong>CompTIA A+</strong><br>
       Issued: 07 Feb 2002<br>
-      <a href="https://verify.comptia.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a>
+      <a href="https://www.credly.com/earner/earned/badge/e2d9c320-7daa-48da-9445-b83434ed5985">🔗 Verify on Credly</a>
     </td>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">
         <img src="assets/certifications/ccna_badge.png" width="220" alt="CCNA">
@@ -64,6 +65,7 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🧠 Skills & Technologies
