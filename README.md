@@ -14,18 +14,17 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
 
 ---
 ## 🏆 Certifications
-
 <table>
   <tr>
     <td align="center"><a href="https://verify.comptia.org">
-        <img src="assets/certifications/comptia-a-plus.png" width="220" alt="CompTIA A+">
+        <img src="assets/certifications/comptia_a_plus.png" width="220" alt="CompTIA A+">
       </a><br>
       <strong>CompTIA A+</strong><br>
       Issued: 07 Feb 2002<br>
       <a href="https://verify.comptia.org">Verify (Code: MHFWR28N0K1Q1ZSV)</a>
     </td>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/bb366bdd-731e-4754-8bb3-48a6bed1ad90">
-        <img src="assets/certifications/ccna-badge.png" width="220" alt="CCNA">
+        <img src="assets/certifications/ccna_badge.png" width="220" alt="CCNA">
       </a><br>
       <strong>Cisco CCNA Routing & Switching</strong><br>
       Issued: 29 Nov 2012<br>
@@ -34,14 +33,14 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
   </tr>
   <tr>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/98ad5d43-70c0-4e4a-b156-036fa620aa2e">
-        <img src="assets/certifications/google-it-support.png" width="220" alt="Google IT Support">
+        <img src="assets/certifications/google_it_support.png" width="220" alt="Google IT Support">
       </a><br>
       <strong>Google IT Support Professional Certificate</strong><br>
       Issued: 13 Jan 2020<br>
       <a href="https://www.credly.com/earner/earned/badge/98ad5d43-70c0-4e4a-b156-036fa620aa2e">🔗 Verify on Credly</a>
     </td>
     <td align="center"><a href="https://www.credly.com/badges/b1fe11bc-8120-40f3-8439-03b0f79b85bc">
-        <img src="assets/certifications/isc2-cc.png" width="220" alt="ISC² Certified in Cybersecurity (CC)">
+        <img src="assets/certifications/isc2_cc.png" width="220" alt="ISC² Certified in Cybersecurity (CC)">
       </a><br>
       <strong>ISC² Certified in Cybersecurity (CC)</strong><br>
       Issued: 12 Feb 2026<br>
@@ -49,18 +48,22 @@ Passionate and certified IT professional with proven knowledge in hardware/softw
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">
         <img src="assets/certifications/fortinet_fundamentals_cybersecurity.png" width="220" alt="Fortinet Certified Fundamentals Cybersecurity">
       </a><br>
       <strong>Fortinet Certified Fundamentals Cybersecurity</strong><br>
       Issued: 02 Mar 2026<br>
-      Expires: 02 Mar 2028<br>
-      <a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">🔗 Verify on Credly</a> | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity">Badge Info</a>
+      <a href="https://www.credly.com/earner/earned/badge/5c298b0a-8f55-48d9-b316-5995b2effe8e">🔗 Verify on Credly</a>
+    </td>
+    <td align="center"><a href="https://www.credly.com/org/cato-networks/badge/ai-in-cybersecurity-certification">
+        <img src="assets/certifications/cato_networks_ai_in_cybersecurity.png" width="220" alt="Cato Networks AI in Cybersecurity">
+      </a><br>
+      <strong>Cato Networks AI in Cybersecurity</strong><br>
+      Issued: 04 Mar 2026<br>
+      <a href="https://www.credly.com/earner/earned/badge/ecb7219b-edf7-4af4-bd27-ae3ed8bb9775">🔗 Verify on Credly</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🧠 Skills & Technologies
